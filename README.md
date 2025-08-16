@@ -1,9 +1,9 @@
-🚀 Desafío de APX: Integración con Contentful CMS
+<h2>🚀 Desafío de APX: Integración con Contentful CMS</h2>
 
 Este pequeño proyecto fue realizado como parte de un desafío de programación.
 El objetivo principal es utilizar Contentful como CMS (Content Management System) para gestionar el contenido de manera remota y consumirlo mediante su API REST.
 
-📌 Objetivo del desafío
+<h4>📌 Objetivo del desafío</h4>
 
 Crear un espacio en Contentful.
 
